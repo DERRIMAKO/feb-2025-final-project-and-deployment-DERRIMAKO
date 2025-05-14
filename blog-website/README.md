@@ -18,6 +18,6 @@ The website is responsive and uses:
 
 ## Deployment
 You can view the live website here:  
-👉 [Live Link](https://your-username.github.io/repo-name/)
+👉 [Live Link](https://stellar-nougat-ecf7f4.netlify.app/)
 
 ## Folder Structure
